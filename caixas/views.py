@@ -1,3 +1,4 @@
+
 from django.shortcuts import render, HttpResponseRedirect
 from django.db.models import Q #Queries complexas
 from caixas.models import Caixa
